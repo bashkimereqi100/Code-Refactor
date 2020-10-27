@@ -1,5 +1,7 @@
 # code-refactor
 
+![act-text](https://github.com/bashkimereqi100/homeworkone/blob/main/assets/images/refactoring.gif)
+
 ![](assets/images/brand-awareness.png)
 
 https://bbggadv.com/
